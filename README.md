@@ -2,7 +2,7 @@
 
 This [demo](https://sqreen.github.io/VueXSSDemo/) demonstrate how to perform XSS injection with Vue, Vux and Iview.
 
-It's part of this article regarding XSS in Vue.
+It's part of [this](https://blog.sqreen.io/xss-in-vue-js/) article regarding XSS in Vue.
 
 ## Build Setup
 
